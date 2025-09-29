@@ -3,7 +3,7 @@
 WebGL published here (EDIT IT!) https://Emma-gross.github.io/UnityBoilerplate/
 
 # Setup Steps:
-
+ 
 - [x] I understand FERPA laws. If I make the repository public, I will remove any student information, or I am waiving the requirement to remove student information. Otherwise, I am making the repository private;
 - [x] I have forked the repository to my own GitHub account;
 - [x] I have cloned it to my machine and edited the README.md file to include my own information on the url for the web build;
