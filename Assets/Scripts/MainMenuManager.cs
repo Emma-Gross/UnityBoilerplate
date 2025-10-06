@@ -17,6 +17,6 @@ public class MainMenuManager : MonoBehaviour
         // SceneManager is an API from Unity that allows us to manage scenes
         // LoadScene is a function that loads a scene by its name or index
         // "Game" is the name of the scene we want to load
-        SceneManager.LoadScene("Game");
+        SceneManager.LoadScene("LV1");
     }
 }
